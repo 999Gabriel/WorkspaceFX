@@ -1,0 +1,26 @@
+=== FileWorkspace APPLICATION LOG - SESSION STARTED AT 2025-04-02 08:32:19 ===
+
+[2025-04-02 08:32:19.762] [INFO] Operating System: Mac OS X 15.4 aarch64
+[2025-04-02 08:32:19.762] [INFO] Java Version: 22.0.1
+[2025-04-02 08:32:19.762] [INFO] User Directory: /Users/gabriel/Developer/Taschenrechner/Workspace_FX
+[2025-04-02 08:32:19.763] [INFO] Log file created at: /Users/gabriel/Developer/Taschenrechner/Workspace_FX/logs/FileWorkspace_session_20250402_083219.log
+[2025-04-02 08:32:19.765] [INFO] Logging system initialized
+[2025-04-02 08:32:20.009] [INFO] Application initialized
+[2025-04-02 08:33:30.672] [INFO] Source directory selected: /Users/gabriel/3BHWII:2024:25/Bewerbung.zip
+[2025-04-02 08:33:30.678] [INFO] 7 files found
+[2025-04-02 08:34:05.657] [INFO] Destination directory selected: /Users/gabriel/Developer/business/Corprate
+[2025-04-02 08:34:09.178] [ERROR] No files selected for copying
+[2025-04-02 08:34:14.778] [INFO] Applying filter: .pdf
+[2025-04-02 08:34:14.782] [INFO] 5 files found
+[2025-04-02 08:34:18.132] [ERROR] No files selected for copying
+[2025-04-02 08:34:23.597] [INFO] Starting copy operation for 5 files
+[2025-04-02 08:34:23.602] [INFO] Copied file: Siemsns_Gabriel_Winkler_Motivationsschreiben.pdf
+[2025-04-02 08:34:23.602] [INFO] Copied file: Gabriel_Winkler_Resume.pdf
+[2025-04-02 08:34:23.603] [INFO] Copied file: Gabriel_Winkler_Motivationsschreiben.pdf
+[2025-04-02 08:34:23.604] [INFO] Copied file: Gabriel_Winkler_Motivationsschreiben_Bawag.pdf
+[2025-04-02 08:34:23.606] [INFO] Copied file: Gabriel_Winkler_Motivationsschreiben_Caverion.pdf
+[2025-04-02 08:34:23.606] [INFO] Successfully copied 5 files
+[2025-04-02 08:48:02.616] [INFO] Application shutdown initiated
+[2025-04-02 08:48:02.617] [INFO] Closing logger and flushing remaining logs
+
+=== FileWorkspace APPLICATION LOG - SESSION ENDED AT 2025-04-02 08:48:02 ===
