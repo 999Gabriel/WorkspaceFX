@@ -1,0 +1,15 @@
+=== FileWorkspace APPLICATION LOG - SESSION STARTED AT 2025-04-09 08:53:32 ===
+
+[2025-04-09 08:53:32.888] [INFO] Operating System: Mac OS X 15.4 aarch64
+[2025-04-09 08:53:32.888] [INFO] Java Version: 22.0.1
+[2025-04-09 08:53:32.888] [INFO] User Directory: /Users/gabriel/Developer/Taschenrechner/Workspace_FX
+[2025-04-09 08:53:32.888] [INFO] Log file created at: /Users/gabriel/Developer/Taschenrechner/Workspace_FX/logs/FileWorkspace_session_20250409_085332.log
+[2025-04-09 08:53:32.889] [INFO] Logging system initialized
+[2025-04-09 08:53:32.967] [INFO] Application initialized
+[2025-04-09 08:53:40.368] [INFO] Closing logger and flushing remaining logs
+
+=== FileWorkspace APPLICATION LOG - SESSION ENDED AT 2025-04-09 08:53:40 ===
+[2025-04-09 08:53:40.406] [INFO] Application shutdown initiated
+[2025-04-09 08:53:40.406] [INFO] Closing logger and flushing remaining logs
+
+=== FileWorkspace APPLICATION LOG - SESSION ENDED AT 2025-04-09 08:53:40 ===
